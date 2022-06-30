@@ -17,7 +17,7 @@
   - git commit
   - git push origin main
 
-- Conventional Commits
+- `Conventional` Commits
 
   - commit의 제목은 하나의 구나 절로 완성하며 대문자로 시작
   
