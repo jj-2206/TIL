@@ -12,7 +12,7 @@ github.io에는 아이콘을 새로 넣어보고, 티스토리 블로그에는 �
   - `.class` 요소를 정의하기 `#id` 용도를 밝히기
   - 글자 크기는 작아도 16px 이상으로 설정하는 것이 좋다.
 
-# 배운 점
+# 오늘의 코드
 
 ```
 #first {
@@ -25,11 +25,6 @@ github.io에는 아이콘을 새로 넣어보고, 티스토리 블로그에는 �
 
 # 내일 할 일
 
-- git command 정리
-- HTML/ CSS
-  - div 태그
-  - a, img 태그
-  - input, form, button 태그
-  - css를 위한 style, link 태그
-  - 간단 css 문법  
-    글자 관련, 표시 관련, 크기 관련, 위치 관련(position), border (style, width, radius), margin, padding
+- 실시간 강의 때 했던 실습1, 2 다시 만들어보기.
+- 온라인 강의 이어서 듣기. 목표는 Ch.9 까지.
+
