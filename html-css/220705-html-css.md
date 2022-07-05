@@ -1,11 +1,13 @@
+# 오늘 한 일
 
 - CSS
   - CSS 속성  
-    `transform`
+    `transform`  
+
     -> `flex` 연습 필히 꼭 해봐야한다. 
 
 - 과제 제출
-  - 결국 margin과 padding으로 한땀한땀 코딩... 전혀 응용이 안된다. 좌절...  
+  - 결국 `margin`과 `padding`으로 한땀한땀 코딩... 전혀 응용이 안된다. 좌절...  
   
 
 # 오늘의 코드
