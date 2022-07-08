@@ -9,8 +9,8 @@
 
 ```
 git flow init
-git flow feature start
-git flow feature finish
+git flow feature start name
+git flow feature finish name
 ```
 
 # 내일 할 일
