@@ -1,4 +1,3 @@
 Today I Learned..
-
-`git``HTML-CSS``JavaScript`
+`git` `HTML-CSS` `JavaScript`
 
