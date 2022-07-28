@@ -7,7 +7,7 @@
   `React Component` = React Element를 return 하는 함수  
   `JSX` = React Element를 생성하기 위해 사용하는 문법적 sugar
   - React Component에서의 `props`  
-    `Props=Component`라는 함수를 호출할 때 넘기는 인자
+    `Props` = Component 라는 함수를 호출할 때 넘기는 인자
 
 # 오늘의 코드
 
