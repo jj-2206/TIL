@@ -4,13 +4,12 @@
 - React 실시간 강의  
   React에서의 `Event Handling`  
   `useState`  
-  `state` 컴포넌트(함수) 안에서 관리되는 유동적인 데이터  
+  `state`: 컴포넌트(함수) 안에서 관리되는 유동적인 데이터  
+  `useRef`  
   `React component가 다시 render되는 조건`
   1. prop이 update
   2. state가 update
   3. 부모 component가 다시 render  
-     `useRef`
-
 # 오늘의 코드
 
 모든 것은... 자바스크립트...  
@@ -37,4 +36,5 @@ const setMyState = returned[1];
 
 - 김민태의 프론트엔드 아카데미: 제 1강 JavaScript & TypeScript Essential  
   잠시 멈춤,,, ■■□□□□□
+
 
