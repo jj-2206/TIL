@@ -41,7 +41,7 @@ function add(baseNumber) {
 
 실행시
 
-```
+```js
 add(1)(5)
 // 6
 
