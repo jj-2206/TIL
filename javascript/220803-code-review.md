@@ -41,14 +41,14 @@ function add(baseNumber) {
 
 실행시
 
-```
+```js
 add(1)(5)
 // 6
 
 add(1)
 // f returnedFunction(secondNumber) {
-  return baseNumber + secondNumber
-}
+//  return baseNumber + secondNumber
+// }
 ```
 
 고차함수: return값이 함수이거나 인자로 콜백함수를 전달받는 함수  
