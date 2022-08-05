@@ -37,7 +37,6 @@ const App = () => {
         <Route path="*" element={<Navigate to="/hi" replace={false} />} />
         {/* abc라고 지정된 path가 없어서 * path로 들어가게 됩니다. */}
         {/* replace = replace={true}  props.replace는 browser history에 영향을 끼칩니다. */}
-        {/* 방문기록이 생성되지 않습니다. */}
       </Routes>
     </BrowserRouter>
   );
