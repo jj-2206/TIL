@@ -46,7 +46,7 @@ export default App;
 
 console.log로 출력해보면,
 
-![useEffect](./220804-TIL.png)
+![useEffect](./images/220804-TIL.png)
 
 1을 입력한 순간, 3. cleanup 함수가 실행되고  
 dependency array 값이 바뀌었기 때문에 1. useEffect callback 함수가 실행됩니다.  
